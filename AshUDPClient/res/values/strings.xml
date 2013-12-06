@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AshUDPClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtIP">Server IP</string>
+    <string name="txtPort">Port Number</string>
+    <string name="txtUser">Username</string>
+    <string name="txtMsg">Message</string>
+    <string name="txtStart">Start</string>
+    <string name="txtStop">Stop</string>
+    <string name="txtSend">Test</string>
+    <string name="title_activity_draw">DrawActivity</string>
+    <string name="txtBack">Draw</string>
+
+</resources>
